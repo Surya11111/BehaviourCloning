@@ -21,12 +21,12 @@ The goals / steps of this project are the following:
 Administrative Stuff
 ---
 Below are the files as required in the rubric
-1. [drive.py](https://github.com/vikramriyer/Teach_A_Car_To_Drive_Using_Deep_Learning/blob/master/drive.py)
-2. [model.py](https://github.com/vikramriyer/Teach_A_Car_To_Drive_Using_Deep_Learning/blob/master/model.py)
-3. [model.h5](https://github.com/vikramriyer/Teach_A_Car_To_Drive_Using_Deep_Learning/blob/master/model.h5) <br>
+1. [drive.py](https://github.com/Surya11111/BehaviourCloning/blob/master/drive.py)
+2. [model.py](https://github.com/Surya11111/BehaviourCloning/blob/master/model.py)
+3. [model.h5](https://github.com/Surya11111/BehaviourCloning/blob/master/model.h5) <br>
 Not viewable. Please download to run the simulator.
-4. [video](https://github.com/vikramriyer/Teach_A_Car_To_Drive_Using_Deep_Learning/blob/master/run1.mp4) of the car driving itself. <br>
-Not viewable. Please download to view. OR [YoutubeLink](https://youtu.be/DC2Br_Sq0P4) to view (driver's view) directly. <br>
+4. [video](https://github.com/Surya11111/BehaviourCloning/blob/master/run1.mp4) of the car driving itself. <br>
+Not viewable. Please download to view.<br>
 __PS: The video quality is not the greatest but I am submitting the project anyways. Will update if I create a better one after data augmentation.__
 5. README <br>
 This is the github readme.
